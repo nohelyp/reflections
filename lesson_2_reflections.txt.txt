@@ -1,0 +1,2 @@
+What happens when you initialize a repositoy? Why do you need to do it?
+When you initialize a reponsitory, you add a repository and begin your journey to tracking any future changes made to that repository.
