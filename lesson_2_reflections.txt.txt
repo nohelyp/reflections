@@ -15,3 +15,10 @@ Branches are useful for when you have working code and want to try a variation i
 
 How do the diagrams help you visualize the branch structure?
 The diagrams visually show you all the commits and their relation to their parent commit. It also shows you the history of commits within branches.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+The point of merging two branches together is to make all the changes into one branch. One of the commits gets deleted.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: saves time
+cons: can overlook "dangerous" changes made when two person are working on the same file at the same time.
